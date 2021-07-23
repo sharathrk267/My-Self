@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Frontend Developer💻
+#### I'm a Frontend Developer 🖼
 
 ## **Worked in** 
 #### 👉HTML 🧡
@@ -9,5 +9,6 @@
 #### 👉Php 🧡
 #### 👉React Js 🧡
 #
-### Contact for Freelancing 💌
+## Contact for Freelancing 💻
+#### **sharathrk267@gmail.com** 💌
 
